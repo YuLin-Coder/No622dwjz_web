@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="dwjz_web:Web exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/dwjz_web_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="dwjz_web/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="dwjz_web" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
